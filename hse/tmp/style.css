@@ -1,0 +1,13 @@
+/*Registartion*/
+.face{
+    width:50px;
+    border-radius: 50px;
+    border: 1px solid black;
+}
+aside{
+    border: 1px dotted;
+    border-radius: 5px;
+}
+input.form-control{
+    
+}
